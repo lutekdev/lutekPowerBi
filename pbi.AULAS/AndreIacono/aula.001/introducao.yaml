@@ -1,4 +1,4 @@
-O QUE É POWER BI:
+O Que é Power Bi:
   - BI = Business Intelligence
     - Traga Inteligência para o seu negócio
 
@@ -16,3 +16,11 @@ VERSÕES DO POWER BI:
   - Power Bi Mobile:
       - Visualização.
 
+O Que é uma Query:
+  - É uma consulta;
+    - CSV
+    - XML
+    - JSON
+    - PDF
+    - SQL
+  - Pode consultas arquivos no Power Bi Desktop;
