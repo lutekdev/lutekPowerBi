@@ -24,3 +24,13 @@ O Que é uma Query:
     - PDF
     - SQL
   - Pode consultas arquivos no Power Bi Desktop;
+
+Power BI:
+  - Trabalha Com Formulas e Funções;
+    - Mais para ficar customizável ao usuário e para que o Power BI seja mais dinâmico.
+    - Usa-se o UI - User Interface (Para Melhor Visualização).
+    - Mais é sempre bom entender a formula e funções;
+
+  - Documentação do Power BI:
+      - https://learn.microsoft.com/pt-br/dax/
+      - https://dax.guide/
